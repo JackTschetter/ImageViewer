@@ -57,7 +57,7 @@ In the wild however CSS injections can still be problematic. One such example co
 
 In our case the offending portion of the code is highlighted below. The vulnerability stems directly from a careless usage of environment variables on line 1954.
 
-![CSS Injection Code](./assets/css_injection_code.png){:height="36px" width="36px"}
+![CSS Injection Code](./assets/css_injection_code.png)
 
 ### Executing the Attack
 
