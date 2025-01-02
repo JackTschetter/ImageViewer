@@ -55,8 +55,8 @@ This was not actually an attack in the most literal sense of the word. Cascading
 
 In the wild however CSS injections can still be problematic. One such example could be an attacker using a CSS injection attack to display harmful advertisements on your website.
 
-In our case the offending portion of the code is highlighted below. The vulnerability stems directly from a careless usage of environment variables on line 1954.
-<img src="./assets/css_injection_code.png" alt="CSS Injection Code" width="25%" height="25%">
+In our case the offending portion of the code is highlighted below. The vulnerability stems directly from a careless usage of environment variables on line 1954.<br>
+<img src="./assets/css_injection_code.png" alt="CSS Injection Code" width="40%" height="40%">
 
 ### Executing the Attack
 
