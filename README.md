@@ -43,9 +43,9 @@ This project was created for teaching the class CSCI 4271W --- Designing and Dev
 
 ## Attack III
 
-## Attack IV
+## Attack IV --- Incorrect decompression logic in .bcflat encoded files leads to stack buffer overflow
 
-## Attack V
+## Attack V --- CSS Injection
 
 ---
 
