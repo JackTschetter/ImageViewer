@@ -6,7 +6,11 @@
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-- [Algorithms Studied](#algorithms-studied)
+- [Attack I](#attack-i)
+- [Attack II](#attack-ii)
+- [Attack III](#attack-iii)
+- [Attack IV](#attack-iv)
+- [Attack IV](#attack-v)
 - [Tools Used](#tools-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
