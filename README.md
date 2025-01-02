@@ -51,6 +51,14 @@ This was by far the most subtle of all 4 attacks. Some might call it the most be
 
 This was not actually an attack in the most literal sense of the word. Cascading Style Sheets (CSS) is not a Turing complete language, so this vulnerability does not actually have the potential to cause things like arbitrary code execution or elevation of privilege.
 
+![Project Screenshot](./assets/screenshot.png)
+
+In the wild however CSS injections can still be problematic. One such example could be an attacker using a CSS injection attack to display harmful advertisements on your website.
+
+![Project Screenshot](./assets/screenshot.png)
+
+![Project Screenshot](./assets/screenshot.png)
+
 ---
 
 ## Tools Used
