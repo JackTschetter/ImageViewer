@@ -28,10 +28,7 @@
 
 This project was created for teaching the class CSCI 4271W --- Designing and Developing Secure Software at UMN Twin Cities. I developed and taught from this project during Spring Semester 2024. 
 
-- What is this project about?
-- Why did you create it?
-- What problems does it solve?
-- Include a screenshot or demo (if applicable). Example:
+BCIMGVIEW is the latest and greatest product from badly coded industries! It is an image viewer inspired by eye of gnome. BCIMGVIEW supports the following three bitmap image formats.
 
 ![Project Screenshot](./assets/screenshot.png)
 
