@@ -65,13 +65,13 @@ The source code for bcimgview, some sample images in the various supported forma
 
 ## Usage
 
-## Attack I --- Format string injection leads to heap buffer overflow. Potentially arbitrary code execution.
+## Vulnerability I --- Format string injection leads to heap buffer overflow. Potentially arbitrary code execution.
 
-## Attack II --- 
+## Vulnerability II --- 
 
-## Attack III --- 
+## Vulnerability III --- 
 
-## Attack IV --- Incorrect decompression logic in .bcflat encoded files leads to stack buffer overflow
+## Vulnerability IV --- Incorrect decompression logic in .bcflat encoded files leads to stack buffer overflow
 
 This was by far the most subtle of all 4 attacks. Some might call it the most beautiful! Of roughly 70 students in this course, only 2 found and exploited this vulnerability perfectly. It is also notable because it was the only one of the 4 intentionally planted vulnerabilities which led to a buffer overflow on the stack. All the other buffer overflows were on the heap.
 
