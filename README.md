@@ -35,8 +35,6 @@ BCIMGVIEW is the latest and greatest product from badly coded industries! It is 
 
 The source code for bcimgview, some sample images in the various supported formats, and pre compiled Linux x86-64 binary of the most recent release are open source and available for download from this repository.
 
-![Project Screenshot](./assets/screenshot.png)
-
 ---
 
 ## Attack I
