@@ -88,6 +88,6 @@ In our case the offending portion of the code is highlighted below. The vulnerab
 
 ### Executing the Attack
 
-This "attack" rests on the insecure use of the envirnoment variable BC_BGCOLOR above.
+This "attack" rests on the insecure use of the envirnoment variable BC_BGCOLOR above. To understand the attack let us first consider the intended functionality of the program.
 
 ## Contact
