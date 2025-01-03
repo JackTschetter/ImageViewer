@@ -33,6 +33,8 @@ BCIMGVIEW is the latest and greatest product from badly coded industries! It is 
 <li>BC-Progressive, extension .bcprog, is intended for transmitting images over low- bandwidth network connections, like web sites in the 1990s. Colors are represented with single bytes from a 6x6x6 color cube, and scanlines are sent in an interleaved order.</li>
 <li>BC-Flat, extension.bcflat, is a losslessly compressed true color format that separately encodes the red, green, and blue channels. The differences between adjacent samples in a scan line are computed and then one or more differences are encoded with a fixed dictionary of variable-length binary codewords.</li>
 
+The source code for bcimgview, some sample images in the various supported formats, and pre compiled Linux x86-64 binary of the most recent release are open source and available for download from this repository.
+
 ![Project Screenshot](./assets/screenshot.png)
 
 ---
