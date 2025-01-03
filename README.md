@@ -63,6 +63,8 @@ The source code for bcimgview, some sample images in the various supported forma
 
 ---
 
+## Usage
+
 ## Attack I
 
 ## Attack II
@@ -87,10 +89,5 @@ In our case the offending portion of the code is highlighted below. The vulnerab
 ### Executing the Attack
 
 This "attack" rests on the insecure use of the envirnoment variable BC_BGCOLOR above.
-
-
-## Usage
-
-## Results and Evaluation
 
 ## Contact
