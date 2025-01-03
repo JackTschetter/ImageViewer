@@ -65,11 +65,11 @@ The source code for bcimgview, some sample images in the various supported forma
 
 ## Usage
 
-## Attack I
+## Attack I --- Format string injection leads to heap buffer overflow. Potentially arbitrary code execution.
 
-## Attack II
+## Attack II --- 
 
-## Attack III
+## Attack III --- 
 
 ## Attack IV --- Incorrect decompression logic in .bcflat encoded files leads to stack buffer overflow
 
