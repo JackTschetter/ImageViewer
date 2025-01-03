@@ -88,7 +88,8 @@ In our case the offending portion of the code is highlighted below. The vulnerab
 
 ### Executing the Attack
 
-This "attack" rests on the insecure use of the envirnoment variable BC_BGCOLOR above. To understand the attack let us first consider the intended functionality of the program. Below is the command to run the image viewer and display the image maze.bcprog, along with the expected output.
+This "attack" rests on the insecure use of the envirnoment variable BC_BGCOLOR above. To understand the attack let us first consider the intended functionality of the program. Below is the command to run the image viewer and display the image maze.bcprog, along with the expected output.<br><br>
+<img src="./assets/css_injection_code.png" alt="CSS Injection Code" width="45%" height="45%"><br><br>
 <img src="./assets/css_injection_code.png" alt="CSS Injection Code" width="45%" height="45%">
-<img src="./assets/css_injection_code.png" alt="CSS Injection Code" width="45%" height="45%">
+
 ## Contact
