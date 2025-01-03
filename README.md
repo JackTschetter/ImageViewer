@@ -64,17 +64,6 @@ In our case the offending portion of the code is highlighted below. The vulnerab
 
 ![Project Screenshot](./assets/screenshot.png)
 
----
-
-## Tools Used
-
-- **Frontend**: React, TypeScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Other Tools**: Docker, Webpack
-
----
-
 ## Getting Started
 
 ### Prerequisites
