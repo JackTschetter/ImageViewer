@@ -96,6 +96,6 @@ This "attack" rests on the insecure use of the envirnoment variable BC_BGCOLOR a
 Below is the command for the CSS injection, along with the output. This command takes advantage of the insecure usage of an environment variable to cleverly inject our own information about styling. It is not a full attack since it does not cause arbitrary code execution, or elevation of privilege, but it does constitute cyber vandalism nonetheless. <br><br>
 <img src="./assets/css_injection_command.png" alt="CSS Injection" width="30%" height="30%"><br><br>
 
-<img src="./assets/maze.png" alt="CSS Injection" width="30%" height="30%"><br><br>
+<img src="./assets/css_injection_result" alt="CSS Injection" width="30%" height="30%"><br><br>
 
 ## Contact
