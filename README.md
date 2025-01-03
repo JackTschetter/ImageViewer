@@ -65,19 +65,27 @@ The source code for bcimgview, some sample images in the various supported forma
 
 ## Usage
 
-## Vulnerability I --- Format string injection leads to heap buffer overflow. Potentially arbitrary code execution.
+## Vulnerability I --- Insecure/user controlled format string.
+
+### Summary
 
 ## Vulnerability II --- 
 
+### Summary
+
 ## Vulnerability III --- 
 
+### Summary
+
 ## Vulnerability IV --- Incorrect decompression logic in .bcflat encoded files leads to stack buffer overflow
+
+### Summary
 
 This was by far the most subtle of all 4 attacks. Some might call it the most beautiful! Of roughly 70 students in this course, only 2 found and exploited this vulnerability perfectly. It is also notable because it was the only one of the 4 intentionally planted vulnerabilities which led to a buffer overflow on the stack. All the other buffer overflows were on the heap.
 
 ## Vulnerability V --- CSS Injection
 
-### Summary of the attack
+### Summary
 
 This was not actually an attack in the most literal sense of the word. Cascading Style Sheets (CSS) is not a Turing complete language, so this vulnerability does not actually have the potential to cause things like arbitrary code execution or elevation of privilege.
 
