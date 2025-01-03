@@ -6,11 +6,11 @@
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-- [Attack I](#attack-i)
-- [Attack II](#attack-ii)
-- [Attack III](#attack-iii)
-- [Attack IV](#attack-iv)
-- [Attack V](#attack-v)
+- [Vulnerability I](#vulnerability-i)
+- [Vulnerability II](#vulnerability-ii)
+- [Vulnerability III](#vulnerability-iii)
+- [Vulnerability IV](#vulnerability-iv)
+- [Vulnerability V](#vulnerability-v)
 - [Tools Used](#tools-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
