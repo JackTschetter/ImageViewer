@@ -39,10 +39,9 @@ The source code for bcimgview, some sample images in the various supported forma
 
 ## Tools Used
 
-- **Frontend**: React, TypeScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Other Tools**: Docker, Webpack
+- **Operating System**: Linux. Perhaps in the future other compatible Unix variants.
+- **Programming Language(s)**: C
+- **Libraries**: The GUI portion uses the GTK 3 family of GUI libraries.
 
 ---
 
