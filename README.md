@@ -50,8 +50,6 @@ The source code for bcimgview, some sample images in the various supported forma
 ### Prerequisites
 
 - A machine running Ubuntu 22.04. The program should on most recent Linux systems, although the supported configuration is Ubuntu 22.04.
-- Install [Git](https://git-scm.com/)
-- (Optional) Install Docker if needed: [Docker Installation Guide](https://www.docker.com/)
 
 ### Installation
 
