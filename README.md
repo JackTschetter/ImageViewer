@@ -86,9 +86,8 @@ In our case the offending portion of the code is highlighted below. The vulnerab
 
 ### Executing the Attack
 
-![Project Screenshot](./assets/screenshot.png)
+This "attack" rests on the insecure use of the envirnoment variable above.
 
-![Project Screenshot](./assets/screenshot.png)
 
 ## Usage
 
