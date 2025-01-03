@@ -91,6 +91,8 @@ In our case the offending portion of the code is highlighted below. The vulnerab
 This "attack" rests on the insecure use of the envirnoment variable BC_BGCOLOR above. To understand the attack let us first consider the intended functionality of the program. Below is the command to run the image viewer and display the image maze.bcprog, along with the expected output. **NOTE** these two images show case the normal/intended behavior of the program. <br><br>
 <img src="./assets/maze_command.png" alt="maze_command" width="30%" height="30%"><br><br>
 
-<img src="./assets/maze.png" alt="maze" width="30%" height="30%">
+<img src="./assets/maze.png" alt="maze" width="30%" height="30%"><br><br>
+
+Below is the command for the CSS injection, along with the output. 
 
 ## Contact
