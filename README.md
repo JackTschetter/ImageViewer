@@ -37,8 +37,6 @@ The source code for bcimgview, some sample images in the various supported forma
 
 ---
 
----
-
 ## Tools Used
 
 - **Frontend**: React, TypeScript
