@@ -72,22 +72,6 @@ In our case the offending portion of the code is highlighted below. The vulnerab
 
 ![Project Screenshot](./assets/screenshot.png)
 
-## Getting Started
-
-### Prerequisites
-
-- Install [Node.js](https://nodejs.org/)
-- Install [Git](https://git-scm.com/)
-- (Optional) Install Docker if needed: [Docker Installation Guide](https://www.docker.com/)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/project-name.git
-   cd project-name
-
 ## Usage
 
 ## Results and Evaluation
