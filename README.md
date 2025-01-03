@@ -63,15 +63,15 @@ The source code for bcimgview, some sample images in the various supported forma
 
 ## Usage
 
-## Vulnerability I --- Insecure/user controlled format string.
+## Vulnerability I --- Insecure/user controlled format string
 
 ### Summary
 
-## Vulnerability II --- 
+## Vulnerability II --- Integer Overflow
 
 ### Summary
 
-## Vulnerability III --- 
+## Vulnerability III --- Incorrect usage of do-while loops
 
 ### Summary
 
