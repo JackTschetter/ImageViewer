@@ -77,11 +77,9 @@ The source code for bcimgview, some sample images in the various supported forma
 
 ## Vulnerability IV --- Incorrect decompression logic
 
-### Attack classification/description
+### Summary
 
 This attack was caused by incorrect decompression logic in .bcflat encoded files leading to a stack buffer overflow (potentially) leading to arbitrary code execution.
-
-### Summary
 
 This was by far the most subtle of all 4 attacks. Some might call it the most beautiful! Of roughly 70 students in this course, only 2 found and exploited this vulnerability perfectly. It is also notable because it was the only one of the 4 intentionally planted vulnerabilities which led to a buffer overflow on the stack. All the other buffer overflows were on the heap.
 
